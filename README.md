@@ -1,3 +1,4 @@
+
 # TaskFlow — Smart To-Do App
 
 A complete, responsive, and accessible frontend To-Do application built with **React 19**, **TypeScript**, and **Vite**. Designed for fast daily task capture with smart views, priorities, due dates, subtasks, drag-and-drop reordering, dark/light themes, and offline `localStorage` persistence.
@@ -127,3 +128,7 @@ Exported backups are standard JSON arrays of task objects. You can also import a
   }
 ]
 ```
+=======
+# to-do-app
+A simple and user-friendly To-Do App to add, edit, delete, and manage daily tasks. Helps users stay organized and improve productivity.
+
